@@ -38,7 +38,7 @@ def generate_safe_ai_response(content_input):
 st.set_page_config(page_title="Kavach.AI - Cyber Suite", layout="wide", page_icon="🛡️")
 
 st.title("🛡️ Kavach.AI - Cyber-Defense & Privacy Suite")
-st.markdown("**(Connected Engine: Gemini 2.5 Flash | 10-in-1 Real-Time Threat Protection)**")
+st.markdown("**(Connected Engine: Gemini 3.8 Flash | 10-in-1 Real-Time Threat Protection)**")
 st.divider()
 
 tabs = st.tabs([
