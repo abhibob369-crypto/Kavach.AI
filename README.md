@@ -31,7 +31,7 @@ Built with Streamlit + Google Gemini (with multi-API key rotation so it doesn’
 ## Tech Stack
 
 - Streamlit (UI)
-- Google Generative AI (Gemini 1.5 / 2.0 Flash)
+- Google Generative AI (Gemini 3.8 Flash)
 - Multi-API key rotation (handles quota exhaustion gracefully)
 - pdf2image + Pillow (PDF & image support)
 - Runs easily on Google Colab or local
